@@ -5,7 +5,7 @@ const art = {
       "type": "Feature",
       "properties": {
         "name": "Noud van Dun",
-        "image": "disco.jpg",
+        "image": "ufo.jpg",
         "extra": "Visit the website of the Amsterdam based dutch visual artist Noud van Dun",
         "link": "http://www.noudvandun.com"
       },
@@ -420,6 +420,105 @@ const art = {
         "coordinates": [
           4.857980,
           52.303800
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arti et Amicitiae",
+        "title": "",
+        "image": "arti.jpg",
+        "adress": "Rokin 112",
+        "extra": "Arti is the oldest visual artist society in the Netherlands where the artists themselves determine policy. \
+                   Arti’s policies embrace unity coupled with diversity. Our identity as a medium transcending platform leads us to \
+                   embrace the inherent fruitful characteristics. Tradition is coupled with the experimental, the parochial with the cosmopolitan, \
+                   the inclusive with the exclusive. As a lively and stable factor in an unstable (art) world, curiosity, friendship and connecting are key issues for Arti.",
+        "link": "https://www.arti.nl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.891804,
+          52.368873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenbox Museum",
+        "title": "",
+        "image": "greenbox.jpg",
+        "adress": "Leidsedwarsstraat 12",
+        "extra": "Greenbox Museum of Contemporary Art from Saudi Arabia is a research institution and collection. \
+                  The museum tries to turn people's attention away from what is en vogue in the many White Cube museums of Europe and America.",
+        "link": "https://www.greenboxmuseum.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.882350,
+          52.365340
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corridor Project Space",
+        "title": "",
+        "image": "cps.jpg",
+        "adress": "Veemkade 574",
+        "extra": "As Corridor Project Space we are an independent and interdisciplinary contemporary art initiative in Amsterdam. We believe in the \
+                  importance of experimental art practices which focus on the creation of new content that are off grid from the institutional and commercial circles.",
+        "link": "https://www.amsterdamartspace.nl/"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.927880,
+          52.375790
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keith Haring Mural",
+        "title": "Seamonster",
+        "image": "haring.jpg",
+        "adress": "Food Center Amsterdam",
+        "extra": "A monumental 12-metre-high mural by the late New York artist Keith Haring, it’s the largest of its kind in Europe",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86583829,
+          52.37846788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huis Marseille",
+        "title": "",
+        "image": "hm.jpg",
+        "adress": "Keizersgracht 401",
+        "extra": "Huis Marseille is a museum for photography. The museum offers a rich and varied exhibition programme with changeovers about four times per year. \
+                  Since the expansion in 2013, there has been a lot of opportunity to show the museum’s own collection \
+                  alongside the exhibition. The collection consists primarily of leading modern (national and international) photography.",
+        "link": "https://www.amsterdamartspace.nl/"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.884810,
+          52.367641
         ]
       }
     },
