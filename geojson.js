@@ -522,6 +522,47 @@ const art = {
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gallery Fons Welters",
+        "title": "",
+        "image": "fons.jpg",
+        "adress": "Bloemstraat 140",
+        "extra": "Galerie Fons Welters is a gallery for emerging contemporary art. \
+                  The gallery opened its doors in 1989 and has ever since been one of the leading galleries in Holland",
+        "link": "https://www.fonswelters.nl/"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.878760,
+          52.373780
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grimm Gallery",
+        "title": "",
+        "image": "grimm.jpg",
+        "adress": "Frans Halsstraat 26, Keizersgracht 241",
+        "extra": "GRIMM is a contemporary art gallery representing over thirty international artists. \
+                  Since its establishment in 2005, it has been the gallery’s mission to represent and support the work of emerging \
+                  and mid-career artists working in all media. Grimm Gallery is located in Amsterdam and New York City.",
+        "link": "https://grimmgallery.com/"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.888690,
+          52.357690
+        ]
+      }
+    },
 
 
   ]
