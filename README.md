@@ -7,5 +7,6 @@ On MacBook and Iphone<p>
 ![MacBook   IPhone screen](https://user-images.githubusercontent.com/38325801/73931955-8e41c700-48d9-11ea-9511-47db1d71ae2c.jpg)<p>
 
 On Desktop<p>
-![Screen art](https://user-images.githubusercontent.com/38325801/73443150-735dd880-4356-11ea-8077-07a81a010dc4.jpg)
+![Screen Art in Amsterdam](https://user-images.githubusercontent.com/38325801/73944200-775b9e80-48f2-11ea-9e97-ca5e864ff340.jpg)
+
 
