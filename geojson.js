@@ -431,9 +431,9 @@ const art = {
         "image": "arti.jpg",
         "adress": "Rokin 112",
         "extra": "Arti is the oldest visual artist society in the Netherlands where the artists themselves determine policy. \
-                   Arti’s policies embrace unity coupled with diversity. Our identity as a medium transcending platform leads us to \
-                   embrace the inherent fruitful characteristics. Tradition is coupled with the experimental, the parochial with the cosmopolitan, \
-                   the inclusive with the exclusive. As a lively and stable factor in an unstable (art) world, curiosity, friendship and connecting are key issues for Arti.",
+                  Arti\u2019s policies embrace unity coupled with diversity. Our identity as a medium transcending platform leads us to \
+                  embrace the inherent fruitful characteristics. Tradition is coupled with the experimental, the parochial with the cosmopolitan, \
+                  the inclusive with the exclusive. As a lively and stable factor in an unstable (art) world, curiosity, friendship and connecting are key issues for Arti.",
         "link": "https://www.arti.nl/"
       },
       "geometry": {
@@ -560,6 +560,25 @@ const art = {
         "coordinates": [
           4.888690,
           52.357690
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OSCAM",
+        "title": "",
+        "image": "oscam.jpg",
+        "adress": "Bijlmerplein 110-111",
+        "extra": "OSCAM is the museological platform for art, fashion, design, craftsmanship and development in Amsterdam.",
+        "link": "https://www.oscam.nl/"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.952330,
+          52.314110
         ]
       }
     },
