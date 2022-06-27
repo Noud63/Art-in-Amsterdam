@@ -1,5 +1,5 @@
 # Art-in-Amsterdam<br>
-Leaflet map api.<br>
+Leaflet map api. (https://leafletjs.com)<br>
 Find your art in the Amsterdam area.<br>
 Contemporary art, modern art, museums, galleries, art in public spaces and independent art spaces and more.<br><p>
 
